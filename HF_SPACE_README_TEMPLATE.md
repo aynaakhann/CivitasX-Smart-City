@@ -45,3 +45,4 @@ Optional:
 - `GET /context/live?city=Islamabad`
 - `POST /simulate`
 - `POST /compare`
+
