@@ -687,3 +687,5 @@ For the frontend developer, the best order is:
 - Frontend 3D city view: [frontend/src/components/City3D.jsx](C:/Users/Lenovo/Desktop/CivitasX/frontend/src/components/City3D.jsx)
 - Frontend agent flow: [frontend/src/components/AgentFlowPanel.jsx](C:/Users/Lenovo/Desktop/CivitasX/frontend/src/components/AgentFlowPanel.jsx)
 - Tests: [tests/test_simulation.py](C:/Users/Lenovo/Desktop/CivitasX/tests/test_simulation.py)
+
+
