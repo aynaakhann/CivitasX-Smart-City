@@ -1,1 +1,1 @@
-"""PolicyPulse AI backend package."""
+"""CivitasX AI backend package."""
